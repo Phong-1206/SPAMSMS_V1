@@ -1,1 +1,9 @@
-Test
+SPAMSMS_V1 
+CRE: TRẦN TUẤN PHONG
+git clone https://github.com/Pvfiwv/SPAMSMS_V1
+cd SPAMSMS_V1
+unzip SPAMSMS_V1.zip
+cd folder nếu có
+python ip.python
+Check ip gửi ADMIN
+python spamsms.py
